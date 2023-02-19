@@ -1,0 +1,130 @@
+
+/* IMMAGINE DI BACK GROUND */
+
+body{
+    background-image:url(Immagine\ background\ +\ logo/background.jpg);
+    background-size:cover;
+    position: relative;
+    
+}
+
+/* CASELLA QUADRATA NERA/TRASPARENTE */
+.box{
+    position: relative;
+    margin: auto;
+    top: 150px;
+    padding-top: 120px;
+    padding-left: 120px;
+    width: 1200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    height:700px ;
+    border-radius: 20px;
+    color: rgba(255, 255, 255, 1);
+}
+
+/* CONTENITORE TESTO E POSIZIONE NELLA PAGINA */
+.Contenitore {
+    position:relative;
+    bottom: 10px;
+    width: 1000px;
+    margin: auto;
+    padding-top: 120px;
+    color: rgba(255, 255, 255, 1);
+    position:absolute;
+    
+
+ 
+}
+
+/* LOGO CENTRATO */
+.logo{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* PRIMO TITOLO VERDE E CENTRATO */
+.Titolo-Iniziale{
+    margin: auto;
+    font-size: 70px;
+    text-align: center;
+    color: limegreen;
+}
+
+
+
+
+
+/* BARRA COLORATA VERDE CON I TASTI CENTRATI */
+.CasellaColorata{
+    margin: auto;
+    padding: 5px;
+    height: 20px;
+    background-color: limegreen;
+    text-align: center;
+    
+}
+
+/* BOTTONI PRENOTA/ TERMINA PRENOTAZIONE/ ACCENDI LUCI */
+#Bottone{
+    font-size: 15px;
+}
+
+/* MONOPATTINO GINO */
+.PrimoGruppo{
+    margin-top: 20px;
+}
+
+.PrimoSottotitolo{
+    color: white;
+    font-size: 20px;
+}
+.PrimaVia{
+    font-size: 20px;
+}
+
+
+/* MONOPATTINO MIKE*/
+.SecondoGruppo{
+    margin-top: auto;
+}
+.SecondoSottotitolo{
+    color: white;
+
+    font-size: 20px;
+}
+.SecondaVia{
+    font-size: 20px;
+}
+
+
+
+/* MONOPATTINO FEDE */
+.TerzoGruppo{
+    
+}
+.TerzoSottotitolo{
+    color: white;
+    font-size: 20px;
+}
+.TerzaVia{
+    font-size: 20px;
+}
+
+
+
+/* CHECKBOX */
+#checkbox{
+    width: 20px;
+    height: 20px;
+}
+
+/* STATO CARICA + GRAFICO */
+.StatoCarica{
+    font-size: 20px;
+}
+
+
+
